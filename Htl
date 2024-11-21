@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Task 1 - Landing Page</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="logo">Tech Octanet</div>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#task">Task</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="hero">
+    <h1>Task 1 - Create and Deploy a Landing Page</h1>
+    <p>Step-by-Step Guide: Creating and Deploying a Landing Page</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
+            title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+  </section>
+
+  <section id="task">
+    <h2>Task Details</h2>
+    <ul>
+      <li><b>Create a Landing Page:</b> Design and build a landing page on any topic of your choice.</li>
+      <li><b>Tech Stack:</b> Use any technology stack you're comfortable with.</li>
+      <li><b>Deployment:</b> Deploy your project on GitHub.</li>
+      <li><b>Submission:</b> Share your GitHub repository link.</li>
+      <li><b>Verification:</b> Your submission will be reviewed and verified.</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Made with ❤️ by vansh</p>
+  </footer>
+</body>
+</html>
