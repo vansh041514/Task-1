@@ -1,0 +1,83 @@
+
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4f4f9;
+  }
+  
+  /* Header Styling */
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #007bff;
+    color: white;
+  }
+  
+  header .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  header nav ul {
+    display: flex;
+    list-style: none;
+    gap: 1rem;
+  }
+  
+  header nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  
+  /* Hero Section */
+  #hero {
+    text-align: center;
+    padding: 2rem;
+    background-color: white;
+  }
+  
+  #hero h1 {
+    font-size: 2.5rem;
+    color: #333;
+  }
+  
+  #hero p {
+    color: gray;
+    margin: 1rem 0;
+  }
+  
+  /* Task Section */
+  #task {
+    padding: 2rem;
+  }
+  
+  #task h2 {
+    text-align: center;
+    color: #007bff;
+  }
+  
+  #task ul {
+    list-style-type: disc;
+    padding: 0 2rem;
+  }
+  
+  #task ul li {
+    margin: 0.5rem 0;
+    line-height: 1.5;
+  }
+  
+  /* Footer */
+  footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: white;
+  }
+  
+Style.css
